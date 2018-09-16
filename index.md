@@ -1,6 +1,6 @@
 ## 个人资料：
-
-真实姓名：胡泽杰
+  ![image](https://github.com/qingchengyixiao/huzejie.github.io/blob/master/02.jpg)                                                      
+姓名：胡泽杰                                        
 
 性别：男
 
